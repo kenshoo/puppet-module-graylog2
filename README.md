@@ -1,4 +1,4 @@
-# Puppet Module :: Graylog2
+# Puppet Module :: Graylog2 
 
 This installs and configures the (Graylog2) [http://graylog2.org] centralized logger.
 
